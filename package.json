@@ -1,0 +1,16 @@
+{
+    "dependencies": {
+        "axios": "^1.7.4",
+        "express": "^4.18.2",
+        "express-rate-limit": "^6.7.0",
+        "mongoose": "^6.6.5",
+        "jsonwebtoken": "^8.5.1",
+        "dotenv": "^16.0.3",
+        "bcrypt": "^5.1.0",
+        "discord.js": "^13.7.0",
+        "ws": "^8.9.0",
+        "xmlbuilder": "^15.1.1",
+        "xml-parser": "^1.2.1",
+        "cheerio": "^1.0.0"
+    }
+}

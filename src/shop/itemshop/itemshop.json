@@ -1,0 +1,57 @@
+{
+  "//": "BR Item Shop Config",
+  "daily1": {
+    "itemGrants": [
+      "AthenaGlider:Glider_ID_007_TurtleShell"
+    ],
+    "price": 800
+  },
+  "daily2": {
+    "itemGrants": [
+      "AthenaPickaxe:Pickaxe_ID_113_Muertos"
+    ],
+    "price": 1200
+  },
+  "daily3": {
+    "itemGrants": [
+      "AthenaItemWrap:Wrap_050_PajamaPartyRed"
+    ],
+    "price": 300
+  },
+  "daily4": {
+    "itemGrants": [
+      "AthenaGlider:Glider_ID_033_Valor"
+    ],
+    "price": 1200
+  },
+  "daily5": {
+    "itemGrants": [
+      "AthenaPickaxe:Pickaxe_ID_109_SkullTrooper"
+    ],
+    "price": 1200
+  },
+  "daily6": {
+    "itemGrants": [
+      "AthenaMusicPack:MusicPack_014_S9Cine"
+    ],
+    "price": 300
+  },
+  "featured1": {
+    "itemGrants": [
+      "AthenaCharacter:CID_673_Athena_Commando_F_ArcticCamo_Slate"
+    ],
+    "price": 800
+  },
+  "featured2": {
+    "itemGrants": [
+      "AthenaCharacter:CID_594_Athena_Commando_F_SoccerZombieB"
+    ],
+    "price": 1200
+  },
+  "featured3": {
+    "itemGrants": [
+      "AthenaCharacter:CID_205_Athena_Commando_F_GarageBand"
+    ],
+    "price": 1500
+  }
+}
